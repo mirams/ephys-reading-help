@@ -1,4 +1,4 @@
-# Some cardiac ion channels (w.i.p.)
+# Some cardiac ion channels
 
 | Current     | Protein(s) | Gene(s)      | Subunit genes              | Famous blocker |
 |-------------|------------|--------------|----------------------------|----------------|
@@ -16,5 +16,7 @@
 IClCa=Ito2, Ito=Ito1, IKur=IKp?
 
 See also: 
-- https://channelpedia.epfl.ch/
-- https://www.guidetopharmacology.org/GRAC/IonChannelListForward?class=VGIC
+- [Gaborit, Le Bouter et al., Nattel (2007) Regional and tissue specific transcript signatures of ion channel genes in the non‐diseased human heart](https://doi.org/10.1113/jphysiol.2006.126714)
+- [EPFL Channelpedia](https://channelpedia.epfl.ch/)
+- [IUPHAR/BPS List of channels](https://www.guidetopharmacology.org/GRAC/IonChannelListForward?class=VGIC)
+
