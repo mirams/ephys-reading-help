@@ -1,6 +1,6 @@
-# Some cardiac cell ephys terminology
+# Terminology for reading cardiac ephys papers
 
-The goal of this doc is to make it easier/possible to read cardiac cellular ephys literature.
+Goal is to make reading easy / possible.
 It's not an encyclopedia.
 
 ## Currents
