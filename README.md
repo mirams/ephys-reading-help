@@ -22,7 +22,7 @@ Below is a **deliberately incomplete and oversimplified** list of ionic currents
 
 | Current     | Enzyme      | Famous genes | Subunit genes              | Famous blocker(s) |
 |-------------|-------------|--------------|----------------------------|-------------------|
-| INaK (Ip)   | Na/K-ATPAse |              | Ouabain                    | Famous blocker(s) |
+| INaK (Ip)   | Na/K-ATPAse |              |                            | Ouabain           |
 | INaCa (NCX) |             |              |                            |                   |
 |             | RyR         |              |                            |                   |
 |             | SERCA       |              |                            |                   | 
