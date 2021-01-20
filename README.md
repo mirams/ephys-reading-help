@@ -1,4 +1,4 @@
-# Concise cardiac ion channel list
+# Some cardiac cell ephys terminology
 
 **Not** meant to be comprehensive.
 For that, see initiatives linked below
@@ -15,18 +15,18 @@ For that, see initiatives linked below
 | Ito v       | Kv4.3      | KCND3        |                            |                |       |
 | If p, sa    |            | HCN4         |                            |                |       |
 | IKur a      | Kv1.5      | KCNA5        |                            |                |       |
+| INaK (Na/K) | 
+|             |            |              |                            |                |       |
+|             |            |              |                            |                |       |
+|             |            |              |                            |                |       |
+|             |            |              |                            |                |       |
+|             |            |              |                            |                |       |
 
-### Notes
-
-IClCa=Ito2, Ito=Ito1, IKur=IKp?
-
-Nav2.1 (SCN7A) also prevalent in heart?
-
-Gaborit Kv4.3 expr is surprising
-
-Other Kirs expressed in several places
-
-Kv1.7 (KCNA7) said to be similar to similar to Kv1.5 and important in atria
+- IClCa=Ito2, Ito=Ito1, IKur=IKp?
+- Nav2.1 (SCN7A) also prevalent in heart?
+- Gaborit Kv4.3 expr is surprising
+- Other Kirs expressed in several places
+- Kv1.7 (KCNA7) said to be similar to similar to Kv1.5 and important in atria
 
 ### To-do
 
