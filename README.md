@@ -1,9 +1,10 @@
 # Some cardiac cell ephys terminology
 
-**Not** meant to be comprehensive.
-For that, see initiatives linked below
+Below is 
 
-| Current     | Protein(s) | Gene(s)      | Subunit genes              | Famous blocker | Slang |
+## Currents
+
+| Current     | Protein(s) | Famous genes | Subunit genes              | Famous blocker | Slang |
 |-------------|------------|--------------|----------------------------|----------------|-------|
 | INa, INaL   | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | TTX            |       |
 | ICaL v,a    | Cav1.2     | CACNA1C      | CACNB2, CACNA2D1           |                |       |
@@ -15,12 +16,25 @@ For that, see initiatives linked below
 | Ito v       | Kv4.3      | KCND3        |                            |                |       |
 | If p, sa    |            | HCN4         |                            |                |       |
 | IKur a      | Kv1.5      | KCNA5        |                            |                |       |
-| INaK (Na/K) | 
-|             |            |              |                            |                |       |
-|             |            |              |                            |                |       |
-|             |            |              |                            |                |       |
-|             |            |              |                            |                |       |
-|             |            |              |                            |                |       |
+
+| Current     | Enzyme      |             |                            |                |
+|-------------|-------------|-------------|----------------------------|----------------|
+| INaK (Ip)   | Na/K-ATPAse |             |                            |                |
+| INaCa (NCX) |             |             |                            |                |
+|             | RyR         |             |                            |                |
+|             | SERCA       |             |                            |                |
+
+| Current | Awesome ref                                                            |
+| --------|------------------------------------------------------------------------|
+| IKr     | [Vandenberg et al. (2012)](https://doi.org/10.1152/physrev.00036.2011) |
+| ICaL    | [Striessnig et al. 2014](https://doi.org/10.1002/wmts.102)             |
+|         | [Zamponi et al. 2015](https://doi.org/10.1124/pr.114.009654)           |
+|         | [Hess 1988](https://doi.org/10.1139/y88-201)                           |
+| INa     | [Grant 2001](https://doi.org/10.1016/S0002-9343(00)00714-2)            |
+|         | [Chadda et al. 2017](https://doi.org/10.1007/s00424-017-1959-1)        |
+| INaK    | [Glitsch 2001](https://doi.org/10.1152/physrev.2001.81.4.1791)         |
+
+### Notes / Questions
 
 - IClCa=Ito2, Ito=Ito1, IKur=IKp?
 - Nav2.1 (SCN7A) also prevalent in heart?
@@ -28,13 +42,18 @@ For that, see initiatives linked below
 - Other Kirs expressed in several places
 - Kv1.7 (KCNA7) said to be similar to similar to Kv1.5 and important in atria
 
-### To-do
-
-Add pumps/exchangers e.g. NaK, NCX, SERCA(2/3?), RYR2
-
-## More
+### More comprehensive references
 
 - [Gaborit, Le Bouter et al., Nattel (2007) Regional and tissue specific transcript signatures of ion channel genes in the non‐diseased human heart](https://doi.org/10.1113/jphysiol.2006.126714)
 - [EPFL Channelpedia](https://channelpedia.epfl.ch/)
 - [IUPHAR/BPS List of channels](https://www.guidetopharmacology.org/GRAC/IonChannelListForward?class=VGIC)
 
+## Annoying terminology
+
+### Depolarisation
+
+- When a membrane potential goes "up" from its resting potential value towards zero it "depolarises".
+- When a membrane potential goes "down" from its resting potential value further from zero it "hyperpolarises".
+- These terms are really useful when describing the resting potential, because a "higher resting potential" is ambiguous (bigger difference or higher value of V?).
+- However, also used for membrane potential, where it gets annoying, with authors even calling a change from 10mV to 30mV a "depolarisation".
+- (In 1902 the resting potential and action potential had been observed, but the membrane is much too small for light microscopy. Julius Bernstein proposed the existence of a membrane to explain the resting & action potential, and further hypothesised "membrane breakdown" as the explanation for depolarisation accompanied by changes to ion permeabilities. Kenneth Cole & collaborators performed early voltage-clamp experiments in the 30s and 40s and found that the membrane potential did not go to zero, but went to positive values, which they called "overshoot". This disproved the "membrane breakdown" idea, and maybe should have inspired some better terminology).
