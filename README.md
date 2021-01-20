@@ -7,7 +7,7 @@ It's not an encyclopedia.
 
 Below is a **deliberately incomplete and oversimplified** list of ionic currents in cardiac excitable cells, along with protein names, gene names (primarily the alpha subunits), some famous blockers, and unfortunate names still used in the literature.
 
-| Current     | Protein(s) | Famous genes | Subunit genes              | Famous blocker          | Nicknames |
+| Current     | Protein(s) | Famous genes | Subunit genes              | Famous blocker(s)       | Nicknames |
 |-------------|------------|--------------|----------------------------|-------------------------|-----------|
 | INa, INaL   | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | Tetrodotoxin (TTX), STX |           |
 | ICaL v,a    | Cav1.2     | CACNA1C      | CACNB2, CACNA2D1           |                         |           |
@@ -20,12 +20,12 @@ Below is a **deliberately incomplete and oversimplified** list of ionic currents
 | If p, sa    |            | HCN4         |                            |                         |           |
 | IKur a      | Kv1.5      | KCNA5        |                            |                         |           |
 
-| Current     | Enzyme      |             |                            |                |
-|-------------|-------------|-------------|----------------------------|----------------|
-| INaK (Ip)   | Na/K-ATPAse |             |                            |                |
-| INaCa (NCX) |             |             |                            |                |
-|             | RyR         |             |                            |                |
-|             | SERCA       |             |                            |                |
+| Current     | Enzyme      | Famous genes | Subunit genes              | Famous blocker(s) |
+|-------------|-------------|--------------|----------------------------|-------------------|
+| INaK (Ip)   | Na/K-ATPAse |              | Ouabain                    | Famous blocker(s) |
+| INaCa (NCX) |             |              |                            |                   |
+|             | RyR         |              |                            |                   |
+|             | SERCA       |              |                            |                   | 
 
 #### Notes / Questions / TODO
 
