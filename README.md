@@ -68,16 +68,14 @@ Bonus points if you can limit it to 1 ref per current.
 
 *Autonomic nervous system* (ANS) controls lots of organs (subconciously) including effects on the heart rate
 It's divided into **sympathetic** ("fight-or-flight"), **parasympathetic** ("rest-and-digest"), and enteric (your "gut brain" in popular science)
-- Roughly, "sympathetic" = faster heart rate, parasympathetic = slower heart rate
-- "V
 
-| Part of ANS     | Famous effect | Famous neurotransmitter             | Famous receptors      | Famous nerves   | 
+| Part of ANS     | Famous effect | Famous neurotransmitter             | Famous receptors      | Famous nerves   |
+|-----------------|---------------|-------------------------------------|-----------------------|-----------------|
 | Sympathetic     | Faster        | Epinephrine (Adrenaline)            | (Beta-) Adrenergic    |                 |
 |                 |               | Experiments use Isoproterenol (iso) |                       |                 |
 |                 |               | Norepinephrine (Noradrenaline)      |                       |                 |
 |                 |               | Catecholamines                      |                       |                 |
 | Parasympathetic | Slower        | Acetylcholine (ACh)                 | Muscarinic, Nicotinic | Vagus ("Vagal") |
-
 
 ## Annoying terminology
 
