@@ -83,10 +83,20 @@ It's divided into **sympathetic** ("fight-or-flight"), **parasympathetic** ("res
 ### Depolarisation
 
 - When a membrane potential goes "up" from its resting potential value towards zero it "depolarises".
+- When a membrane potential goes "back down" from higher voltages towards its resting potential it "repolarises"
 - When a membrane potential goes "down" from its resting potential value further from zero it "hyperpolarises".
 - These terms are really useful when describing the resting potential, because a "higher resting potential" is ambiguous (bigger difference or higher value of V?).
 - However, also used for membrane potential, where it gets annoying, with authors even calling a change from 10mV to 30mV a "depolarisation".
 - (In 1902 the resting potential and action potential had been observed, but the membrane is much too small for light microscopy. Julius Bernstein proposed the existence of a membrane to explain the resting & action potential, and further hypothesised "membrane breakdown" as the explanation for depolarisation accompanied by changes to ion permeabilities. Kenneth Cole & collaborators performed early voltage-clamp experiments in the 30s and 40s and found that the membrane potential did not go to zero, but went to positive values, which they called "overshoot". This disproved the "membrane breakdown" idea, and maybe should have inspired some better terminology).
+
+### Activation, deactivation, inactivation, recovery
+
+- In a simple 2 gate HH model, the INa current *activates* when the cell is stimulated (opening it up), and then *inactivates* at higher voltages (closing it down)
+- A consistent way of using the words is to view activation & deactivation as the same reaction, but in opposite direction; and to view inactivation & recovery from inactivation as the two directions of a separate reaction. So for INa we start deactivated & recovered (closed), then become activated & recovered (open), then activated & inactivated (closed), then deactivated & inactivated (closed), then finally deactivated & recovered again.
+- These terms are _not_ used consistently in the literature. Deactivation particularly is often treated as a separate process (not the reverse of activation).
+- In HH's model, only INa inactivated/recovered. Later other currents were found to do it too.
+- INa activates/deactives rapidly, inactivates/recovers slowly. A ball-and-chain metaphor is usually invoked, saying the C-terminus of the alpha subunit blocks the pore after opening.
+- For currents like IKr this is radically different, with inactivation/recovery being much faster, and no consensus view on whether it depends on activation/deactivation.
 
 ### Inotropic / Lusitropic
 
