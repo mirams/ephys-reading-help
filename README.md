@@ -1,4 +1,4 @@
-# Terminology for reading cardiac cellular ephys papers
+# Terminology for reading cardiac cell ephys lit
 
 Goal is to make reading easy / possible.
 It's not an encyclopedia.
