@@ -7,7 +7,7 @@ It's not an encyclopedia.
 
 Below is a **deliberately incomplete and oversimplified** list of ionic currents in cardiac excitable cells, along with protein names, gene names (primarily the alpha subunits), some famous blockers, and unfortunate names still used in the literature.
 
-| Current   | Protein(s) | Famous genes | Subunit genes              | Famous blocker(s)       | Nicknames |
+| Current   | Protein(s) | Famous genes | Subunit genes              | Famous blockers         | Nicknames |
 |-----------|------------|--------------|----------------------------|-------------------------|-----------|
 | INa, INaL | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | Tetrodotoxin (TTX), STX |           |
 | ICaL      | Cav1.2     | CACNA1C      | CACNB2, CACNA2D1           |                         |           |
@@ -20,7 +20,7 @@ Below is a **deliberately incomplete and oversimplified** list of ionic currents
 | If        |            | HCN4         |                            |                         |           |
 | IKur      | Kv1.5      | KCNA5        |                            |                         |           |
 
-| Current     | Enzyme      | Famous genes | Subunit genes              | Famous blocker(s) |
+| Current     | Enzyme      | Famous genes | Subunit genes              | Famous blockers   |
 |-------------|-------------|--------------|----------------------------|-------------------|
 | INaK (Ip)   | Na/K-ATPAse |              |                            | Ouabain           |
 | INaCa (NCX) |             |              |                            |                   |
