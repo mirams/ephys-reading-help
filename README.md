@@ -66,8 +66,9 @@ Bonus points if you can limit it to 1 ref per current.
 
 ## Nervous system
 
-*Autonomic nervous system* (ANS) controls lots of organs (subconciously) including effects on the heart rate
-It's divided into **sympathetic** ("fight-or-flight"), **parasympathetic** ("rest-and-digest"), and enteric (your "gut brain" in popular science)
+*Autonomic nervous system* (ANS) controls lots of organs (subconciously) including effects on the heart rate.
+
+It's divided into **sympathetic** ("fight-or-flight"), **parasympathetic** ("rest-and-digest"), and enteric (your "gut brain" in popular science).
 
 | Part of ANS     | Famous effect | Famous neurotransmitter             | Famous receptors      | Famous nerves   |
 |-----------------|---------------|-------------------------------------|-----------------------|-----------------|
