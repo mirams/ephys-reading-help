@@ -7,18 +7,18 @@ It's not an encyclopedia.
 
 Below is a **deliberately incomplete and oversimplified** list of ionic currents in cardiac excitable cells, along with protein names, gene names (primarily the alpha subunits), some famous blockers, and unfortunate names still used in the literature.
 
-| Current   | Protein(s) | Famous genes | Subunit genes              | Famous blockers         | Nicknames |
-|-----------|------------|--------------|----------------------------|-------------------------|-----------|
-| INa, INaL | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | Tetrodotoxin (TTX), STX |           |
-| ICaL      | Cav1.2     | CACNA1C      | CACNB2, CACNA2D1           |                         |           |
-| ICaL      | Cav1.3     | CACNA1D      | CACNB2, CACNA2D1           | Nifedipine              |           |
-| ICaT      | Cav3.2     | CACNA1H      |                            |                         |           |
-| IKr       | Kv11.1     | KCNH2        | KCNE2                      | Dofetilide              | HERG      |
-| IK1       | Kir2.1     | KCNJ2        |                            |                         |           |
-| IKs       | Kv7.1      | KCNQ1, KCNE1 |                            |                         | LQT1      |
-| Ito       | Kv4.3      | KCND3        |                            |                         |           |
-| If        |            | HCN4         |                            |                         |           |
-| IKur      | Kv1.5      | KCNA5        |                            |                         |           |
+| Current    | Protein(s) | Famous genes | Subunit genes              | Famous blockers         | Nicknames |
+|------------|------------|--------------|----------------------------|-------------------------|-----------|
+| INa, INaL  | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | Tetrodotoxin (TTX), STX |           |
+| ICaL       | Cav1.2 (V) | CACNA1C      | CACNB2, CACNA2D1           | Nifedipine              |           |
+|            | Cav1.3 (A) | CACNA1D      | CACNB2, CACNA2D1           | Nifedipine              |           |
+| ICaT       | Cav3.2     | CACNA1H      |                            |                         |           |
+| IKr        | Kv11.1     | KCNH2        | KCNE2                      | Dofetilide              | HERG      |
+| IK1        | Kir2.1     | KCNJ2        |                            |                         |           |
+| IKs        | Kv7.1      | KCNQ1, KCNE1 |                            |                         | LQT1      |
+| Ito        | Kv4.3      | KCND3        |                            |                         |           |
+| If         |            | HCN4         |                            |                         |           |
+| IKur       | Kv1.5      | KCNA5        |                            |                         |           |
 
 | Current     | Enzyme      | Famous genes | Subunit genes              | Famous blockers   |
 |-------------|-------------|--------------|----------------------------|-------------------|
