@@ -11,7 +11,7 @@ Below is a **deliberately incomplete and oversimplified** list of ionic currents
 |-----------|------------|--------------|----------------------------|-------------------------|-----------|
 | INa, INaL | Nav1.5     | SCN5A        | SCN1B, SCN2B, SCN3B, SCN4B | Tetrodotoxin (TTX), STX |           |
 | ICaL      | Cav1.2     | CACNA1C      | CACNB2, CACNA2D1           |                         |           |
-| ICaL      | Cav1.3     | CACNA1D      | CACNB2, CACNA2D1           |                         |           |
+| ICaL      | Cav1.3     | CACNA1D      | CACNB2, CACNA2D1           | Nifedipine              |           |
 | ICaT      | Cav3.2     | CACNA1H      |                            |                         |           |
 | IKr       | Kv11.1     | KCNH2        | KCNE2                      | Dofetilide              | HERG      |
 | IK1       | Kir2.1     | KCNJ2        |                            |                         |           |
@@ -64,6 +64,21 @@ Bonus points if you can limit it to 1 ref per current.
 - [EPFL Channelpedia](https://channelpedia.epfl.ch/)
 - [IUPHAR/BPS List of channels](https://www.guidetopharmacology.org/GRAC/IonChannelListForward?class=VGIC)
 
+## Nervous system
+
+*Autonomic nervous system* (ANS) controls lots of organs (subconciously) including effects on the heart rate
+It's divided into **sympathetic** ("fight-or-flight"), **parasympathetic** ("rest-and-digest"), and enteric (your "gut brain" in popular science)
+- Roughly, "sympathetic" = faster heart rate, parasympathetic = slower heart rate
+- "V
+
+| Part of ANS     | Famous effect | Famous neurotransmitter             | Famous receptors      | Famous nerves   | 
+| Sympathetic     | Faster        | Epinephrine (Adrenaline)            | (Beta-) Adrenergic    |                 |
+|                 |               | Experiments use Isoproterenol (iso) |                       |                 |
+|                 |               | Norepinephrine (Noradrenaline)      |                       |                 |
+|                 |               | Catecholamines                      |                       |                 |
+| Parasympathetic | Slower        | Acetylcholine (ACh)                 | Muscarinic, Nicotinic | Vagus ("Vagal") |
+
+
 ## Annoying terminology
 
 ### Depolarisation
@@ -73,3 +88,9 @@ Bonus points if you can limit it to 1 ref per current.
 - These terms are really useful when describing the resting potential, because a "higher resting potential" is ambiguous (bigger difference or higher value of V?).
 - However, also used for membrane potential, where it gets annoying, with authors even calling a change from 10mV to 30mV a "depolarisation".
 - (In 1902 the resting potential and action potential had been observed, but the membrane is much too small for light microscopy. Julius Bernstein proposed the existence of a membrane to explain the resting & action potential, and further hypothesised "membrane breakdown" as the explanation for depolarisation accompanied by changes to ion permeabilities. Kenneth Cole & collaborators performed early voltage-clamp experiments in the 30s and 40s and found that the membrane potential did not go to zero, but went to positive values, which they called "overshoot". This disproved the "membrane breakdown" idea, and maybe should have inspired some better terminology).
+
+### Inotropic / Lusitropic
+
+- "Positively inotropic" = increases strength of contraction / contractility
+- "Negatively inotropic" = decreases strength of contraction / contractility
+- "Positively lusitropic" = increases rate of relaxation
