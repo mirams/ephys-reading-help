@@ -2,7 +2,7 @@
 
 # Ionic concentrations in and around myocytes
 
-People tend to be very sloppy about citing origins for these.
+For some reason these are often given without experimental reference.
 Would like to have a solid source for the main internal and external ones here, eventually.
 
 ## Overview
