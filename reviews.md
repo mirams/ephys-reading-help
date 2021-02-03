@@ -7,7 +7,7 @@ Biased and incomplete.
 
 ## Modelling
 
-- [Model history: Noble, Rudy (2001) Models of cardiac ventricular action potentials; iterative interaction between experiment and simulation](https://doi.org/10.1098/rsta.2001.0820)
+- Model history: [Noble, Rudy (2001) Models of cardiac ventricular action potentials; iterative interaction between experiment and simulation](https://doi.org/10.1098/rsta.2001.0820)
 - Cell to tissue level: [Kleber, Rudy (2004) Basic Mechanisms of Cardiac Impulse Propagation and Associated Arrhythmias](https://doi.org/10.1152/physrev.00025.2003)
 - Channel to cell level: [Rudy, Silva (2006) Computational Biology in the Study of Cardiac Ion Channels and Cell Electrophysiology](https://doi.org/10.1017/S0033583506004227)
 - Meta-analysis: [Niederer, Fink, Noble, Smith (2009) A meta-analysis of cardiac electrophysiology computational models](https://doi.org/10.1113/expphysiol.2008.044610)
