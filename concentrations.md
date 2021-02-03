@@ -1,4 +1,11 @@
+Related documents: [Reading help](README.md) | [Review list](reviews.md) | [Ionic concentrations](concentrations.md)
+
 # Ionic concentrations in and around myocytes
+
+People tend to be very sloppy about citing origins for these.
+Would like to have a solid source for the main internal and external ones here, eventually.
+
+## Overview
 
 Guyton & Hall (2011) Textbook of Medical Physiology, 12th edition. Page 7.
 
