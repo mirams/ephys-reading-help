@@ -1,7 +1,9 @@
+Related documents: [Reading help](README.md) | [Review list](reviews.md) | [Ionic concentrations](concentrations.md)
+
 # Cardiac cell, channel, and tissue reviews
 
-Incomplete.
 Not always cardiac, not always cell, etc.
+Biased and incomplete.
 
 ## Modelling
 
@@ -22,12 +24,19 @@ Not always cardiac, not always cell, etc.
 
 ### Variability and uncertainty
 
+- Marder, Goaillard (2006) Variability, compensation and homeostasis in neuron and network function
 - Mirams, Pathmanathan et al., Clayton (2016) White paper; Uncertainty and variability in computational and mathematical models of cardiac physiology
 - Ni, Morotti, Grandi (2018) A Heart for Diversity; Simulating Variability in Cardiac Arrhythmia Research
+- Population of models: [Muszkiewicz, Britton et al., Rodriguez (2016) Variability in cardiac electrophysiology; Using experimentally-calibrated populations of models to move beyond the single virtual physiological human paradigm](https://doi.org/10.1016/j.pbiomolbio.2015.12.002)
 
 ### Modelling drug effects
 
 ### Modelling mutations
+
+### Single-channel models
+
+- Ball, Rice (1992) Stochastic models for ion channels; Introduction and bibliography
+- Colquhoun (1998) Binding, gating, affinity and efficacy
 
 ## Dynamics
 
@@ -59,6 +68,8 @@ Not always cardiac, not always cell, etc.
 Strength-duration curves, threshold, If, liminal length, conduction velocity, that type of thing
 
 ### Beat-to-beat variability
+
+Billman (2011) Heart rate variability; A historical perspective
 
 ### Simplified models and dynamical analysis
 
