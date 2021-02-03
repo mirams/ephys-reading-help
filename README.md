@@ -43,7 +43,7 @@ Below is a **deliberately incomplete and oversimplified** list of ionic currents
 - In expression systems (CHO, HEK, Oocytes) you often express _only the alpha subunit_, so the channels lack all sorts of things they have in the real cells, and it can be more accurate to say "we measured a KCNH2 current" than "we measured IKr".
 - Finally, a lot of genes had strange names until they became standardised. For example, "hERG" for "human Ether-a-go-go-Related Gene" because it is similar to a gene that made fruit fly legs twitch in early experiments. Some diseases have been classified by the genes suspected to underlie them, e.g. long QT syndrome got split into types according to various channel genes, where "LQT1" is the variant caused by IKs mutations. This then rubbed off onto the gene KCNQ1, so that some publications call it LQT1!
 
-### Awesome references, per current
+### Awesome reviews, per current
 
 Awesome references for currents given below.
 Bonus points if you can limit it to 1 ref per current.
